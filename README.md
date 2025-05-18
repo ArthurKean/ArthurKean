@@ -12,7 +12,6 @@
 - 👯 I’m looking to collaborate on open source Python projects  
 - 💬 Ask me about Python, Git, and programming in general  
 - 📫 How to reach me: [Email](mailto:keanulisses@gmail.com) | [LinkedIn](https://www.linkedin.com/in/arthur-kean-5458352bb/)  
-- 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love solving coding challenges and automating tasks!
 
 ---
