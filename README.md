@@ -80,4 +80,3 @@
   <a href="mailto:keanulisses@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Feito com ☕ e muito debug por Arthur</i></p>
