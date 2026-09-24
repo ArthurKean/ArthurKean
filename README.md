@@ -15,12 +15,14 @@
 - 🎓 Estudante de **Ciência da Computação** na **UFMA** (Universidade Federal do Maranhão)
 - 💻 Foco em **desenvolvimento Full Stack** e **Visão Computacional**
 - 🔭 Trabalhando em projetos que unem **Python, OpenCV e engenharia de software**
+- 🐾 Membro do **[PETComp UFMA](https://github.com/PET-Comp-UFMA)** (Programa de Educação Tutorial de Ciência da Computação)
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,7 +35,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-
 ---
 
 ### 🚀 Projetos em destaque
@@ -43,16 +44,16 @@
     <td width="50%">
       <h4>🅿️ Detecção de Vagas de Estacionamento</h4>
       <p>Sistema de visão computacional para identificar vagas livres e ocupadas em tempo real, usando <b>Python</b>, <b>OpenCV</b> e <b>NumPy</b>.</p>
+      <img src="https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen?style=flat-square" />
+      <br/>
+      <a href="https://github.com/ArthurKean/ParkingVision"><b>🔗 Ver repositório</b></a>
+    </td>
+    <td width="50%">
+      <h4>🏠 Site do Corretor Rafael Aguiar</h4>
+      <p>Site institucional/landing page para o corretor de imóveis Rafael Aguiar, com apresentação de imóveis e contato.</p>
       <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square" />
       <br/>
       <a href="https://github.com/ArthurKean/SiteRafaelAguiar"><b>🔗 Ver repositório</b></a>
-    </td>
-    <td width="50%">
-      <h4>🏠 SaaS para Imobiliária</h4>
-      <p>Plataforma SaaS pensada para o mercado imobiliário — gestão de imóveis, clientes e processos comerciais.</p>
-      <img src="https://img.shields.io/badge/status-em%20an%C3%A1lise-blue?style=flat-square" />
-      <br/>
-      <a href="https://github.com/ArthurKean/ParkingVision"><b>🔗 Ver repositório</b></a>
     </td>
   </tr>
 </table>
@@ -63,11 +64,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArthurKean&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurKean&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ArthurKean&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurKean&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurKean&layout=donut&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -79,4 +80,4 @@
   <a href="mailto:keanulisses@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-
+<p align="center"><i>Feito com ☕ e muito debug por Arthur</i></p>
