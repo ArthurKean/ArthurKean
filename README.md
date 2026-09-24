@@ -49,14 +49,14 @@
       <p>Sistema de visão computacional para identificar vagas livres e ocupadas em tempo real, usando <b>Python</b>, <b>OpenCV</b> e <b>NumPy</b>.</p>
       <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square" />
       <br/>
-      <a href="#"><b>🔗 Ver repositório</b></a>
+      <a href="https://github.com/ArthurKean/SiteRafaelAguiar"><b>🔗 Ver repositório</b></a>
     </td>
     <td width="50%">
       <h4>🏠 SaaS para Imobiliária</h4>
       <p>Plataforma SaaS pensada para o mercado imobiliário — gestão de imóveis, clientes e processos comerciais.</p>
       <img src="https://img.shields.io/badge/status-em%20an%C3%A1lise-blue?style=flat-square" />
       <br/>
-      <a href="#"><b>🔗 Ver repositório</b></a>
+      <a href="https://github.com/ArthurKean/ParkingVision"><b>🔗 Ver repositório</b></a>
     </td>
   </tr>
 </table>
@@ -85,4 +85,3 @@
   <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>Feito com ☕ e muito debug por Arthur</i></p>
